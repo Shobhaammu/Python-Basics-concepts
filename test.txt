@@ -1,4 +1,0 @@
-# test.txt                                                                                          shifa,1000.0
-shobha:500.5
-rohini:1200.75
-shabana:6000.0
